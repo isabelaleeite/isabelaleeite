@@ -1,15 +1,12 @@
 
 ## Sobre mim
 
-- 
 - 🎓 Estudando Banco de Dados na UNINTER.
 - 💼 Trabalhando como Suporte técnico na VFX Info.}.
 - 🌱 Aprendendo mais sobre engenharia de dados e Cloud Computing.
 - ☁ AWS Practitioner Certified
 
 ## Minhas Skills
-
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
