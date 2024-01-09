@@ -16,4 +16,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelaleite/)](https://www.linkedin.com/in/isabelaleite/)
+[![Linkedin](https://img.shields.io/badge/-Isabela-Leite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelaleite/)](https://www.linkedin.com/in/isabelaleite/)
